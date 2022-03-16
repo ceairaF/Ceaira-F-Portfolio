@@ -87,6 +87,234 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/* General Styles*/
+
+
+img {
+  max-width: 30%;
+}
+
+figure {
+  margin: 0;
+}
+
+html {
+  font-size:16px;
+}
+ 
+body {
+  font-family: 'Lekton', sans-serif;
+  font-size:1em;
+  text-align:left;
+  color:#152A3E;
+
+}
+ 
+ul, 
+ol {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+ 
+a {
+	color:#152A3E;
+  text-decoration: none;
+}
+
+h1{
+  font-family: 'Lexend Tera', sans-serif;
+}
+ 
+h2 {
+    font-family: 'Lekton', sans-serif;
+    font-size:1.875em;
+    font-weight:500;
+    margin:0;
+}
+ 
+h3,
+h4 {
+  font-family: 'Lekton', sans-serif;
+  margin:20px 0;
+  font-size:1.125em;
+  font-weight:500;
+ 
+}
+ 
+p {
+  font-size:0.875em;
+  line-height:1.285;
+}
+
+ 
+address {
+  font-style:normal;
+}
+ 
+.content-wrapper {
+  width:90%;
+  margin:50px 0;
+ 
+}
+
+
+/* Base header-footer styles */
+
+header, footer {
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  flex-flow:nowrap;
+  background-color:#F7E8E8;
+}
+
+/* Header */
+
+header {
+  padding: 15px 0;
+}
+
+header .content-wrapper {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow:row wrap;
+  margin: 0;
+}
+
+header nav {
+  display:block;
+  text-transform:uppercase;
+  color:#152A3E;
+  margin-bottom:60px;
+}
+
+.home-title {
+
+}
+
+/* Main */
+
+.portfolio {
+
+}
+
+#work {
+
+}
+
+.portfolio-header {
+
+}
+
+.portfolio-wrapper{
+
+}
+
+.home-portfolio-piece {
+
+}
+
+.project-description{
+
+}
+
+.project-link{
+
+}
+
+#skills{
+
+}
+
+.skills-header{
+
+}
+
+.language-wrapper{
+
+}
+
+.skill{
+
+}
+
+.tool-wrapper{
+
+}
+
+.tool{
+
+}
+
+#about{
+
+}
+
+.about-content-wrapper{
+
+}
+
+.about-info{
+
+}
+
+.about-text{
+
+}
+
+p span{
+
+}
+
+#contact{
+
+}
+
+.contact-wrapper{
+
+}
+
+.contact-info{
+
+}
+
+.contact-info-follow-section{
+
+}
+
+.contact-title{
+
+}
+
+.social-icons{
+
+
+}
+
+.contact-title{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
