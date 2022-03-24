@@ -154,7 +154,7 @@ h5{
 
 
 p {
-  font-size:0.875em;
+  font-size:1em;
   line-height:1.285;
 }
  
@@ -218,7 +218,7 @@ nav ul {
 }
 nav li {
 display: inline-block;
-font-size:.75em;
+font-size:1em;
 font-family:"Open Sans", sans-serif;
 font-weight:bold;
 padding: 10px 8px;
@@ -262,7 +262,7 @@ div{
 }
 
 .contact-info-follow-section{
-  margin:0 0 50px 0;
+  margin:0 0 20px 0;
 }
 .contact-info {
   margin: 0 60px 30px;
@@ -282,7 +282,7 @@ div{
   display: flex;
   list-style-type: none;
   justify-content:space-around;
-
+  padding-left:0;
 }
 
 footer p{
