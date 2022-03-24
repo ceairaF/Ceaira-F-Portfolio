@@ -263,6 +263,8 @@ div{
 
 .contact-info-follow-section{
   margin:0 0 20px 0;
+  align-items:center;
+  flex-direction:column;
 }
 .contact-info {
   margin: 0 60px 30px;
@@ -696,7 +698,7 @@ footer .content-wrapper{
 }
 
 .contact-info-follow-section{
-  display:block;
+  flex-direction:column;
 }
 
 .contact-title{
@@ -705,7 +707,6 @@ footer .content-wrapper{
 
 .social-icons{
   width:12.5em;
-  padding-left:66px;
 }
 footer ul{
   align-items:center;
