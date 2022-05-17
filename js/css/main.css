@@ -241,7 +241,7 @@ footer{
     justify-content: center;
     text-align: center;
     flex-flow: row wrap;
-    font-size:1.25em;
+    padding:80px 0;
 }
 
 footer h3{
@@ -253,18 +253,17 @@ footer h3{
   font-weight: bold;
 }
 
+.content-wrapper{
+  width:85%;
+}
+
 div{
   display:block;
 }
 
-<<<<<<< HEAD
-=======
 .contact-info-follow-section{
   margin:0 0 20px 0;
-  align-items:center;
-  flex-direction:column;
 }
->>>>>>> gh-pages
 .contact-info {
   margin: 0 60px 30px;
 }
@@ -273,7 +272,6 @@ div{
   flex-flow: row wrap;
   justify-content: center;
   align-items: flex-start;
-  width:100%;
 }
 
 .contact-title{
@@ -283,18 +281,8 @@ div{
 .social-icons{
   display: flex;
   list-style-type: none;
-<<<<<<< HEAD
-  justify-content:space-between;
-  padding-left:0;
-}
-
-
-.social-icons li i{
-  font-size:2em;
-=======
   justify-content:space-around;
   padding-left:0;
->>>>>>> gh-pages
 }
 
 footer p{
@@ -538,21 +526,13 @@ footer p{
   font-size:1em;
 }
 
-.social-icons li i{
-  font-size:1.75em;
-}
-
 .social-icons{
-  display: flex;
-  list-style-type: none;
-  justify-content:space-between;
-  padding-left:0;
   width:7.5em;
 }
 
-
-
-
+.social-icons li i{
+  font-size:1.75em;
+}
 
 
 /*About*/
@@ -716,7 +696,7 @@ footer .content-wrapper{
 }
 
 .contact-info-follow-section{
-  flex-direction:column;
+  display:block;
 }
 
 .contact-title{
@@ -724,17 +704,8 @@ footer .content-wrapper{
 }
 
 .social-icons{
-  width: 16.5em;
+  width:12.5em;
 }
-
-.social-icons{
-  display: flex;
-  list-style-type: none;
-  justify-content:space-around;
-  padding-left:0;
-}
-
-
 footer ul{
   align-items:center;
   flex-direction:row;
